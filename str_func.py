@@ -1,4 +1,5 @@
 def function(txt):
+"""еще один комментарий для конфликта"""
     return print(str(txt).title())
 
 def f_upper(txt):
